@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/HelenA-Freitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenA-Freitas&show_icons=true&theme=radical&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenA-Freitas&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenA-Freitas&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Helen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
