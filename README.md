@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/HelenA-Freitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenA-Freitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenA-Freitas&theme=radical&count_private=true&langs_count=8"/>
+  <img height="180px"src="https://github-readme-stats.vercel.app/api?username=HelenA-Freitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenA-Freitas&layout=compact&theme=radical&count_private=true"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Helen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Helen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Helen-Java" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Helen-Mysql" height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img align="right" alt="Helen-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_R9lAKArG.png">
+    <img align="right" alt="Helen-pic" height="120" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_R9lAKArG.png">
 </div>
   
   ##
