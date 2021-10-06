@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/HelenA-Freitas">
-  <img height="180px"src="https://github-readme-stats.vercel.app/api?username=HelenA-Freitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenA-Freitas&layout=compact&theme=radical&count_private=true"/>
+  <img height="180px"src="https://github-readme-stats.vercel.app/api?username=HelenA-Freitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenA-Freitas&layout=compact&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Helen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
